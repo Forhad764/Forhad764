@@ -1,7 +1,7 @@
 <!---### Hi there 👋-->
 
-                                <h2 A passionate Web developer from Bangladesh></h2> 
-                                <h3 align="center">A passionate Web developer from Bangladesh</h3>
+                                                 A passionate Web developer from Bangladesh
+                                
 - :briefcase: I’m currently working on Django.
 - :mortar_board: I’m currently learning Laravel.
 - 👯 I’m looking to collaborate on Django.
