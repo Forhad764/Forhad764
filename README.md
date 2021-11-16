@@ -1,6 +1,6 @@
 <!---### Hi there 👋-->
 
-                                                 A passionate Web developer from Bangladesh
+                                            A passionate Web developer from Bangladesh
                                 
 - :briefcase: I’m currently working on Django.
 - :mortar_board: I’m currently learning Laravel.
